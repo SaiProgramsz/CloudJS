@@ -1,4 +1,4 @@
-<h1 align="center">OpenSumi Web Sample</h1>
+<h1 align="center">CloudJS IDE</h1>
 <div align="center">
 
 [![License][license-image]][license-url]
